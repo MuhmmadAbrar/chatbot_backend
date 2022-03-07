@@ -1,2 +1,2 @@
-# simpleAIMLchatbot
-A simple AIML based Chat Bot using Python 
+# Backend for the chat-bot
+Used AIML module for this. 
