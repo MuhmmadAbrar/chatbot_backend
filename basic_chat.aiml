@@ -1,0 +1,12 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>GREETINGS</pattern>
+        <template>
+            Well, hello! I am Hexa. Aflins all time chatbot assistant.
+        </template>
+    </category>
+
+
+</aiml>
